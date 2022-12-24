@@ -4,3 +4,4 @@ pre-commit>=2.8.2
 sphinx>=3,<4
 sphinx-multiversion
 sphinx-panels
+setuptools>=65.5.1 # not directly required, pinned by Snyk to avoid a vulnerability
